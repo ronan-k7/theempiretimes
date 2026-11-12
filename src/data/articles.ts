@@ -60,6 +60,267 @@ export const articles: Article[] = [
     "trending": true
   },
     {
+      "id": "art-white-house-oversight-clash-pardon-act-2026",
+      "slug": "white-house-clashes-with-incoming-democratic-congress-over-oversight-probes",
+      "title": "White House Clashes With Incoming Democratic Congress Over Oversight Probes as Lawmakers Introduce Pardon Reform Act",
+      "excerpt": "Tensions escalated sharply in Washington after White House Counsel William O. Scharf warned House Democrats against 'abusive' investigations, prompting Rep. Robert Garcia and the End Corruption Caucus to unveil the Abuse of the Pardon Prevention Act.",
+      "categoryId": "cat-1",
+      "authorId": "auth-1",
+      "image": "/uploads/news/white-house-oversight-clash-2026.jpg",
+      "publishedAt": "2026-11-12T08:30:00.000Z",
+      "readingTime": 6,
+      "tags": [
+        "U.S. Politics",
+        "White House",
+        "Congress",
+        "House Oversight",
+        "Pardon Reform",
+        "Midterms",
+        "Capitol Hill"
+      ],
+      "featured": false,
+      "trending": true,
+      "content": [
+        "WASHINGTON — An institutional clash between the executive and legislative branches intensified dramatically on Thursday as the White House issued an aggressive formal warning to incoming Democratic congressional leaders over their planned oversight agenda, setting the stage for historic constitutional confrontations when the new Congress convenes in January.",
+        "Following midterm election victories that handed Democrats control of both the House of Representatives and the Senate, White House Counsel William O. Scharf dispatched a pointed letter to Representative Robert Garcia of California, the ranking Democrat expected to assume the chairmanship of the House Oversight Committee. In the letter, Scharf accused incoming committee leadership of plotting 'abusive and capricious' investigations devoid of legitimate legislative purpose, warning that aggressive subpoenas targeting executive branch personnel could 'cross the line into blatant criminality' and unlawfully intimidate federal officials.",
+        "Democratic leaders mounted an immediate and forceful rebuttal, denouncing the White House correspondence as an unprecedented attempt by the executive branch to preemptively chill constitutional oversight by a co-equal branch of government. Speaking outside the Capitol, Rep. Garcia affirmed that the incoming majority will not be deterred from examining administration policies, foreign financial relationships, and federal immigration enforcement operations. 'No executive branch counsel has the authority to dictate the scope of congressional oversight,' Garcia stated. 'The voters elected a new majority specifically to restore accountability, and our investigative subpoenas will follow the facts wherever they lead.'",
+        "Escalating the legislative offensive, members of the newly formed House Democratic End Corruption Caucus—spearheaded by Representatives Mike Levin and Jason Crow—unveiled the Abuse of the Pardon Prevention Act on Wednesday. The proposed statute directs the Department of Justice Inspector General to conduct mandatory, independent audits of presidential clemency grants whenever allegations of conflict of interest, undisclosed campaign ties, or financial quid pro quo arise, directly targeting what sponsors described as a burgeoning 'pardon industrial complex.'",
+        "While constitutional scholars note that any statutory limitation on Article II clemency powers would face an almost certain presidential veto and steep Supreme Court scrutiny, congressional strategists view the bill as an early marker for public hearings in early 2027. Meanwhile, national Democratic figures and strategists are gathering in Denver this week for a post-midterm strategy summit to coordinate messaging and committee subpoena priorities, signaling that Washington is entering a period of relentless institutional friction."
+      ]
+    },
+    {
+      "id": "art-ss-united-states-sunk-florida-artificial-reef-2026",
+      "slug": "historic-ocean-liner-ss-united-states-sunk-florida-coast-artificial-reef",
+      "title": "Historic Ocean Liner SS United States Sunk Off Florida Coast to Form World’s Largest Artificial Reef",
+      "excerpt": "Maritime crews intentionally flooded and sank the legendary SS United States off the coast of Okaloosa County, Florida, closing a storied chapter in American engineering history while establishing a sprawling underwater marine habitat.",
+      "categoryId": "cat-9",
+      "authorId": "auth-1",
+      "image": "/uploads/news/ss-united-states-sinking-reef-2026.png",
+      "publishedAt": "2026-11-12T08:00:00.000Z",
+      "readingTime": 6,
+      "tags": [
+        "U.S. News",
+        "SS United States",
+        "Florida",
+        "Maritime History",
+        "Artificial Reef",
+        "Ocean Liner",
+        "Marine Conservation"
+      ],
+      "featured": false,
+      "trending": true,
+      "content": [
+        "DESTIN, Fla. — After decades of preservation battles, dockside legal disputes, and transcoastal towing operations, the iconic ocean liner SS United States slipped beneath the emerald waters of the Gulf of Mexico off Okaloosa County, Florida, bringing a poignant end to the surface life of America's greatest maritime speed record-holder. Controlled explosive charges and seawater flooding valves opened by marine demolition specialists sent the nearly 1,000-foot vessel to the sandy seafloor, where it will immediately begin its transformation into the world's largest artificial reef.",
+        "Launched in 1951 and designed by visionary naval architect William Francis Gibbs, the SS United States captured the coveted Blue Riband on its maiden transatlantic voyage in 1952, averaging an astonishing 35.59 knots—a speed record for passenger liners that remains unbroken more than seven decades later. During the height of the Cold War, the vessel was secretly engineered with classified military specifications enabling rapid conversion into a high-speed troop transport capable of carrying 15,000 soldiers without refueling.",
+        "Following her retirement from commercial passenger service in 1969, the majestic ship languished for nearly thirty years along Philadelphia’s Delaware River waterfront while preservationists fought escalating berth fees and structural decay. After Okaloosa County finalized a multi-million-dollar acquisition and environmental remediation contract, crews stripped thousands of tons of hazardous materials, fuels, and loose cabling from the hull to ensure complete ecological compliance before towing her south.",
+        "As spectators, naval historians, and former crew members watched from charter vessels and shorelines along the Florida Panhandle, the massive black-and-white hull listed gently before disappearing below the surface in roughly 180 feet of clear Gulf water. 'Seeing the Big U go down is deeply emotional for everyone who cherished her legacy,' remarked a representative from the preservation coalition. 'Yet knowing she will live on beneath the waves as a thriving ecosystem and premier diving destination offers far greater dignity than the scrapyard.'",
+        "Marine biologists and county tourism officials project that the sunken liner will quickly attract dense populations of grouper, snapper, sea turtles, and soft corals, generating tens of millions of dollars annually in regional eco-tourism and scuba diving revenue. Underwater robotic surveys confirmed that the ship settled upright on the seabed, ensuring accessible exploration depths for both recreational and technical divers for centuries to come."
+      ]
+    },
+    {
+      "id": "art-abu-dhabi-ukraine-russia-prisoner-exchange-envoys-2026",
+      "slug": "us-led-trilateral-talks-abu-dhabi-yield-ukraine-prisoner-exchange-deal",
+      "title": "U.S.-Led Trilateral Talks in Abu Dhabi Yield Ukraine Prisoner Exchange Deal as Envoys Depart for Moscow",
+      "excerpt": "Intense American-mediated discussions in the United Arab Emirates produced an agreement in principle on a major humanitarian prisoner swap between Russia and Ukraine, though a comprehensive ceasefire remains elusive as U.S. envoys travel to Moscow.",
+      "categoryId": "cat-4",
+      "authorId": "auth-1",
+      "image": "/uploads/news/abu-dhabi-ukraine-talks-2026.jpg",
+      "publishedAt": "2026-11-12T07:30:00.000Z",
+      "readingTime": 6,
+      "tags": [
+        "World News",
+        "Ukraine",
+        "Russia",
+        "Abu Dhabi",
+        "U.S. Diplomacy",
+        "Steve Witkoff",
+        "European Security"
+      ],
+      "featured": false,
+      "trending": true,
+      "content": [
+        "ABU DHABI — Consecutive days of high-stakes trilateral diplomacy mediated by the United States in Abu Dhabi concluded with a tangible humanitarian breakthrough on Thursday, as Russian and Ukrainian delegations agreed in principle to execute a large-scale prisoner of war exchange. While the negotiated framework fell short of securing an immediate territorial ceasefire, American officials hailed the swap accord as an essential confidence-building mechanism ahead of direct high-level consultations in Moscow and European capitals.",
+        "According to diplomatic sources familiar with the Emirati-hosted sessions, U.S. special envoys Steve Witkoff and Jared Kushner pressed both sides to establish verifiable humanitarian corridors and de-confliction channels surrounding critical winter energy infrastructure. Following the conclusion of the Abu Dhabi round, Witkoff and Kushner departed immediately for Moscow to hold direct discussions with Russian President Vladimir Putin, before traveling onward to Europe for consultations with Ukrainian President Volodymyr Zelenskyy.",
+        "Even as Washington pushes to link an eventual end to hostilities with a broader continental security architecture, sharp friction has emerged between American negotiators and key European Union governments. Diplomats in Paris, Berlin, and Warsaw voiced forceful reservations regarding unilateral security proposals, insisting that sovereign European nations must occupy a central seat at the negotiating table and warning that Moscow cannot be granted an implicit veto over NATO force deployments or future alliance expansion.",
+        "Simultaneously, international security dynamics remain strained across the Middle East. During Veterans Day remarks at Arlington National Cemetery, President Donald Trump stated that the ongoing standoff with Iran will end 'when we want to end it,' even as Tehran's Supreme National Security Council publicly rejected U.S. demands to surrender enriched nuclear stockpiles. Meanwhile, the U.S. Department of Justice unsealed new federal indictments targeting members of Iran-backed front networks accused of orchestrating plots against American and allied facilities in Europe.",
+        "As winter sets in across Eastern Europe and diplomatic envoys shuttle between Moscow, Kyiv, and Brussels, geopolitical analysts warn that the window for structured compromise remains exceedingly narrow. For hundreds of Ukrainian and Russian families awaiting the implementation of the Abu Dhabi prisoner swap, however, the diplomatic progress offers a rare glimmer of relief amid years of unrelenting conflict."
+      ]
+    },
+    {
+      "id": "art-wall-street-rally-coreweave-nvidia-scrutiny-2026",
+      "slug": "wall-street-rebounds-sharply-coreweave-ai-surge-dollar-yearly-high",
+      "title": "Wall Street Rebounds Sharply on CoreWeave AI Surge While Dollar Hits Yearly High Ahead of Inflation Data",
+      "excerpt": "Major U.S. equity benchmarks posted strong gains led by cloud infrastructure provider CoreWeave, even as after-hours scrutiny over Nvidia leadership and hawkish Federal Reserve expectations pushed the U.S. dollar to fresh yearly peaks.",
+      "categoryId": "cat-3",
+      "authorId": "auth-1",
+      "image": "/uploads/news/wall-street-nyse-rally-2026.jpg",
+      "publishedAt": "2026-11-12T07:00:00.000Z",
+      "readingTime": 6,
+      "tags": [
+        "Business",
+        "Wall Street",
+        "Stock Market",
+        "CoreWeave",
+        "Nvidia",
+        "Inflation",
+        "Federal Reserve"
+      ],
+      "featured": false,
+      "trending": true,
+      "content": [
+        "NEW YORK — Wall Street staged a vigorous rebound on Wednesday, snapping a multi-day losing streak as upbeat earnings guidance from artificial intelligence cloud provider CoreWeave revitalized investor confidence across the technology sector. The S&P 500 climbed 1.3 percent to finish at 7,619.38, while the tech-heavy Nasdaq Composite surged 1.6 percent to 25,466.19 and the Dow Jones Industrial Average added 0.5 percent to close at 52,486.49.",
+        "The broad rally was anchored by CoreWeave’s stronger-than-expected quarterly financial results and raised forward revenue outlook, which temporarily quelled institutional anxieties that corporate capital expenditures on AI data centers were outpacing commercial software demand. Shares of specialized compute providers including Nebius Group and Applied Digital rallied sharply in sympathy, pulling broader semiconductor indices higher throughout the regular trading session.",
+        "Yet optimism across equity desks proved short-lived in after-hours and early Thursday overseas trading, as shares of semiconductor bellwether Nvidia tumbled between 8 and 10 percent. The abrupt sell-off followed investigative reports from The New York Times and The Wall Street Journal detailing an internal board inquiry—assisted by outside counsel Wachtell, Lipton, Rosen & Katz—into governance disclosures, executive relationships, and national security compliance protocols involving Chief Executive Jensen Huang. Investors expressed acute alarm over potential leadership instability at the single largest pillar of global AI hardware financing.",
+        "Simultaneously, fixed-income and currency traders grappled with stubborn macroeconomic inflation pressures. Hotter-than-expected consumer price metrics earlier in the week, reinforced by hawkish public commentary from Federal Reserve policymakers citing persistent labor market resilience, propelled the U.S. dollar index to fresh yearly highs and drove gold prices back below the $4,000-per-ounce milestone.",
+        "Institutional bond desks have aggressively repriced interest rate expectations, trimming bets on near-term central bank easing and shifting focus toward Friday’s critical Producer Price Index (PPI) release. Market strategists cautioned that with equity valuations stretched near historic multiples and corporate governance headlines testing market leadership, traders should brace for elevated cross-asset volatility heading into year-end."
+      ]
+    },
+    {
+      "id": "art-meta-muse-ai-assistant-smartwatches-wearables-2026",
+      "slug": "meta-expands-muse-personal-ai-assistant-apple-watch-wear-os",
+      "title": "Meta Expands Muse Personal AI Assistant to Apple Watch and Wear OS Smartwatches",
+      "excerpt": "Expanding its ecosystem beyond smartphones and tablets, Meta officially launched its conversational Muse AI agent on Apple Watch and Android Wear OS devices, bringing hands-free voice reasoning directly to users' wrists.",
+      "categoryId": "cat-2",
+      "authorId": "auth-1",
+      "image": "/uploads/news/meta-muse-smartwatch-ai-2026.jpg",
+      "publishedAt": "2026-11-12T06:30:00.000Z",
+      "readingTime": 6,
+      "tags": [
+        "Technology",
+        "Meta",
+        "Muse AI",
+        "Smartwatches",
+        "Apple Watch",
+        "Wear OS",
+        "Artificial Intelligence"
+      ],
+      "featured": false,
+      "trending": true,
+      "content": [
+        "MENLO PARK, Calif. — Pushing deeper into ambient and wearable computing, Meta Platforms announced on Thursday the global rollout of its flagship personal AI agent, Muse, across Apple Watch (watchOS) and select Android Wear OS smartwatches. The expansion marks a significant strategic pivot as technology giants race to shift artificial intelligence interactions away from traditional smartphone screens and directly onto continuous, wrist-mounted personal interfaces.",
+        "Previously limited to smartphones, tablets, and Meta’s smart eyewear ecosystem, the lightweight Muse wearable application supports low-latency voice dictation, contextual text summaries, and proactive schedule reminders directly from a smartwatch face. Engineers redesigned the agent's inference pipeline to minimize battery drain while preserving multi-turn conversational memory, allowing users to ask follow-up questions during commutes, workouts, or meetings without reaching for their phones.",
+        "'The next frontier of personal AI is defined not by how powerful a model looks in a desktop browser, but by how effortlessly it assists you in the physical world,' said a senior Meta wearables product executive during the rollout announcement. 'Bringing Muse to millions of wrists across both watchOS and Android platforms bridges the gap between passive fitness tracking and an always-available, intelligent personal chief of staff.'",
+        "The smartwatch expansion arrives amid an intense wave of enterprise and physical AI deployments across the broader technology landscape. On the same day, data giant Databricks unveiled a second-generation autonomous version of its enterprise agent 'Genie' powered by a new organizational ontology, while telecommunications leader NTT announced a strategic partnership with Sompo Holdings to deploy physics-based 'world model' robotics across elder care facilities.",
+        "Still, industry analysts and reports from Goldman Sachs and Capgemini this week emphasized that software companies face mounting pressure over the next 18 months to convert consumer AI engagement into sustainable profit margins while controlling hidden cloud governance expenses. By anchoring Muse on third-party smartwatches alongside its own hardware, Meta aims to capture habitual daily user volume and solidify its consumer AI footprint ahead of next year's hardware refresh cycle."
+      ]
+    },
+    {
+      "id": "art-nasa-opens-astronaut-applications-lunar-mars-2026",
+      "slug": "nasa-opens-applications-new-astronaut-class-lunar-base-mars",
+      "title": "NASA Opens Applications for New Astronaut Class Destined for Permanent Lunar Base and Mars Missions",
+      "excerpt": "NASA officially opened recruitment for its newest class of astronaut candidates, seeking STEM professionals to train for long-duration habitation at humanity's planned lunar outpost and future crewed voyages to Mars.",
+      "categoryId": "cat-6",
+      "authorId": "auth-1",
+      "image": "/uploads/news/nasa-astronaut-artemis-application-2026.jpg",
+      "publishedAt": "2026-11-12T06:00:00.000Z",
+      "readingTime": 6,
+      "tags": [
+        "Science",
+        "NASA",
+        "Astronauts",
+        "Artemis",
+        "Mars",
+        "Space Exploration",
+        "Voyager 1"
+      ],
+      "featured": false,
+      "trending": true,
+      "content": [
+        "HOUSTON — Issuing a call to America's next generation of deep-space explorers, NASA officially opened public applications this week for its newest class of astronaut candidates. Unlike previous recruitment cycles heavily centered on low-Earth orbit operations aboard the International Space Station, the newly selected corps will train explicitly for extended surface habitation at the planned Artemis lunar base and pioneering crewed expeditions toward Mars.",
+        "Eligible U.S. citizens holding a master’s degree in a science, technology, engineering, or mathematics (STEM) discipline, accompanied by at least three years of relevant professional experience or 1,000 hours of pilot-in-command jet time, can submit applications through early December. Following a rigorous multi-stage medical, psychological, and technical evaluation process conducted at Johnson Space Center in Houston, final astronaut selections are scheduled to be announced in late 2027.",
+        "'We are no longer merely visiting space; we are establishing permanent infrastructure beyond Earth's gravity well,' explained NASA's Chief of the Astronaut Office during the recruitment launch. 'The candidates who apply this month will be the geologists, physicians, test pilots, and systems engineers operating cryogenic habitats on the Moon's South Pole and validating closed-loop life support architectures required for multi-year journeys to the Red Planet.'",
+        "The recruitment announcement caps an extraordinary week of planetary science milestones for the agency. Earlier this week, NASA’s twin ESCAPADE spacecraft successfully executed precision Earth gravity-assist flybys, slinging both probes onto their interplanetary trajectory to study Mars's magnetosphere and atmospheric stripping. Meanwhile, mission controllers at the Jet Propulsion Laboratory are counting down to November 18, when the legendary Voyager 1 probe—launched in 1977—will officially reach one full light-day (nearly 16.1 billion miles) from Earth in interstellar space.",
+        "Closer to home, NASA and NOAA scientists also published their annual atmospheric findings on the 2026 Antarctic ozone hole, noting that an unusually strong polar vortex expanded the seasonal depletion zone to the seventh-largest area in 48 years of monitoring, though affirming that international chemical bans keep long-term ozone recovery steadily on track."
+      ]
+    },
+    {
+      "id": "art-us-measles-cases-paho-elimination-status-review-2026",
+      "slug": "us-faces-critical-paho-review-over-measles-elimination-status-2026",
+      "title": "U.S. Faces Critical PAHO Review Over Measles-Free Elimination Status as 2026 Cases Surpass 5,180",
+      "excerpt": "Public health officials gathered in Washington as a Pan American Health Organization commission reviews whether the United States will officially lose its decades-old measles elimination status following a surge past 5,180 confirmed cases.",
+      "categoryId": "cat-8",
+      "authorId": "auth-1",
+      "image": "/uploads/news/cdc-measles-outbreak-review-2026.jpg",
+      "publishedAt": "2026-11-12T05:30:00.000Z",
+      "readingTime": 6,
+      "tags": [
+        "Health",
+        "CDC",
+        "Measles",
+        "PAHO",
+        "Public Health",
+        "Vaccination",
+        "FDA"
+      ],
+      "featured": false,
+      "trending": true,
+      "content": [
+        "WASHINGTON / ATLANTA — The United States is facing a sobering public health reckoning this week as an independent verification commission of the Pan American Health Organization (PAHO) convenes in Washington, D.C., to formally evaluate whether the country will lose its prized measles-free elimination status—a milestone originally achieved in 2000. The high-stakes four-day review comes as Centers for Disease Control and Prevention (CDC) surveillance data confirmed more than 5,182 measles cases nationwide in 2026, marking the highest annual infection tally recorded in 35 years.",
+        "Epidemiologists attribute the explosive resurgence to sustained multi-state transmission chains fueled by declining childhood immunization compliance. Recent federal surveys indicate that national kindergarten measles, mumps, and rubella (MMR) vaccination coverage has slipped to 92.4 percent—well below the 95 percent herd immunity threshold required to prevent sustained outbreaks of the highly contagious respiratory virus. Under PAHO epidemiological criteria, continuous endemic transmission of the same viral strain for more than twelve consecutive months triggers automatic revocation of elimination status.",
+        "'Losing measles elimination status is far more than a symbolic embarrassment; it represents a preventable collapse in fundamental pediatric disease defenses,' warned an infectious disease director participating in the review panels. 'Hospitalizations, severe pediatric encephalitis cases, and community school closures are rising sharply across under-vaccinated counties. Restoring 95 percent vaccine coverage must become an urgent national priority before measles permanently re-establishes itself as an endemic American threat.'",
+        "Alongside domestic measles containment, federal health agencies remained busy on multiple clinical and regulatory fronts this week. The CDC continues to enforce emergency air-travel health attestations for passengers arriving from or transiting through the Democratic Republic of the Congo amid an ongoing Ebola outbreak exceeding 11,000 cases. Meanwhile, the Food and Drug Administration (FDA) approved Bayer’s asundexian (Sunharbo)—the first Factor XIa inhibitor cleared for secondary ischemic stroke prevention—and greenlighted oral kinase inhibitor pimicotinib for rare joint tumors, while mandating new safety label warnings across widely prescribed GLP-1 medications regarding rare sudden vision loss risks.",
+        "As the PAHO verification commission prepares to deliver its formal determination on Friday, state health departments across the Midwest and Southwest have launched emergency mobile immunization clinics in a desperate bid to sever lingering transmission chains ahead of the winter holiday travel season."
+      ]
+    },
+    {
+      "id": "art-google-arts-culture-esther-mahlangu-retrospective-2026",
+      "slug": "google-arts-culture-unveils-digital-retrospective-esther-mahlangu-91",
+      "title": "Google Arts & Culture Unveils Monumental Digital Retrospective Celebrating Ndebele Master Esther Mahlangu at 91",
+      "excerpt": "Coinciding with the revered South African artist’s 91st birthday, a sweeping new digital archive launches with over 100 high-resolution works, 700 digitized records, and virtual tours preserving eight decades of geometric Ndebele painting.",
+      "categoryId": "cat-5",
+      "authorId": "auth-1",
+      "image": "/uploads/news/esther-mahlangu-ndebele-art-2026.jpg",
+      "publishedAt": "2026-11-12T05:00:00.000Z",
+      "readingTime": 6,
+      "tags": [
+        "Culture",
+        "Arts",
+        "Esther Mahlangu",
+        "Google Arts & Culture",
+        "Museum",
+        "Ndebele Art",
+        "Exhibitions"
+      ],
+      "featured": false,
+      "trending": true,
+      "content": [
+        "NEW YORK / JOHANNESBURG — Celebrating an extraordinary eight-decade artistic legacy that bridged traditional African heritage with global contemporary galleries, Google Arts & Culture unveiled a sweeping digital retrospective honoring renowned South African Ndebele painter Dr. Esther Mahlangu on her 91st birthday. Launched on November 11 and drawing widespread international acclaim across the museum world on Thursday, the interactive archive preserves more than 100 ultra-high-resolution artworks alongside 700 digitized archival documents, personal photographs, and 360-degree virtual studio tours.",
+        "Born in 1935 in Mpumalanga, South Africa, Mahlangu learned the traditional geometric mural techniques passed down exclusively among Ndebele women from her mother and grandmother. Armed only with chicken feathers and natural earth pigments, she transformed bold angular symmetries, vibrant primary colors, and black borders from ancestral homestead architecture onto modern canvases, automobiles, aircraft tails, and major museum facades across Europe and the United States.",
+        "'My art is the voice of my ancestors, painted with the spirit of our community so the whole world can see the beauty and strength of Ndebele culture,' Dr. Mahlangu reflected in archival video interviews featured prominently in the exhibition. Curators noted that her breakthrough international recognition at the 1989 Centre Pompidou exhibition in Paris and her landmark 1991 painted BMW Art Car permanently shattered Western art market boundaries separating folk tradition from contemporary fine art.",
+        "The digital retrospective arrives during an energetic global week for visual arts and cultural institutions. In India, the fourth milestone edition of Art Mumbai opened its doors on Thursday at the Mahalaxmi Racecourse with 94 regional and international galleries, while Los Angeles museum patrons continue celebrating the record-breaking LACMA Art + Film Gala that raised nearly $7 million honoring filmmaker Denis Villeneuve and artist Vija Celmins.",
+        "Museum directors and art historians praised the Google Arts & Culture initiative for ensuring that Mahlangu’s intricate freehand geometry and oral storytelling remain permanently accessible to students, scholars, and art lovers worldwide, cementing her enduring stature as a towering pioneer of global modern art."
+      ]
+    },
+    {
+      "id": "art-cavaliers-knicks-james-harden-towns-madison-square-garden-2026",
+      "slug": "james-harden-drops-32-cavaliers-defeat-knicks-madison-square-garden",
+      "title": "James Harden Drops 32 as Cavaliers Defeat Knicks at Madison Square Garden Despite Karl-Anthony Towns’ Historic Night",
+      "excerpt": "Cleveland spoiled New York's home stand behind a clutch 32-point performance from James Harden and 23 points from Donovan Mitchell, even as Karl-Anthony Towns tied Willis Reed's legendary Knicks double-double streak.",
+      "categoryId": "cat-7",
+      "authorId": "auth-1",
+      "image": "/uploads/news/knicks-cavs-madison-square-garden-2026.jpg",
+      "publishedAt": "2026-11-12T04:30:00.000Z",
+      "readingTime": 6,
+      "tags": [
+        "Sports",
+        "NBA",
+        "New York Knicks",
+        "Cleveland Cavaliers",
+        "James Harden",
+        "Karl-Anthony Towns",
+        "Madison Square Garden"
+      ],
+      "featured": false,
+      "trending": true,
+      "content": [
+        "NEW YORK — Returning to Madison Square Garden for the first time since last spring’s grueling Eastern Conference playoff series, the Cleveland Cavaliers delivered a poised fourth-quarter statement on Wednesday night, defeating the New York Knicks 115-107 in a physical early-season clash between two conference heavyweights. Veteran guard James Harden paced Cleveland with a season-high 32 points, drilling a dagger step-back three-pointer in the final two minutes to silence a roaring sellout crowd.",
+        "Harden orchestrated the Cavaliers' half-court offense with surgical precision, pairing his perimeter shooting with crisp pick-and-roll reads that generated open looks whenever New York attempted to trap at the top of the key. All-Star guard Donovan Mitchell complemented Harden’s explosion with 23 points and relentless rim pressure, helping Cleveland withstand repeated second-half surges from the Knicks' starting unit.",
+        "Despite the home defeat, New York center Karl-Anthony Towns etched his name alongside one of the franchise’s most hallowed legends. Finishing with 21 points and 11 rebounds, Towns recorded his eleventh consecutive double-double to open the regular season—tying Hall of Famer Willis Reed’s historic Knicks team record. Guard Jalen Brunson added 27 points in a gritty effort, though New York struggled from three-point range down the stretch against Cleveland’s switching perimeter defense.",
+        "Elsewhere around the NBA, the Boston Celtics improved to an Eastern Conference-best 10-2 after erasing a 20-point first-half deficit to edge the Toronto Raptors 98-93 behind Jayson Tatum’s 24 points, while the 10-2 Los Angeles Lakers continued pacing the Western Conference despite monitoring minor injury scares for Austin Reaves and Luka Dončić. On the gridiron, NFL Week 10 preparations accelerated as Green Bay quarterback Jordan Love and Giants rookie linebacker Arvell Reese claimed NFC Player of the Week honors ahead of Sunday's international showdown between the Patriots and Lions in Munich.",
+        "For the Cavaliers, escaping Manhattan with a road victory reinforced their championship credentials early in the 2026-27 campaign, proving their revamped backcourt chemistry can execute under postseason-level atmosphere at the World's Most Famous Arena."
+      ]
+    },
+    {
       "id": "art-us-house-hegseth-impeachment-vote-2026",
       "slug": "house-gop-blocks-hegseth-impeachment-resolution-vote",
       "title": "House GOP Defeats Democratic Hegseth Impeachment Resolution in Fierce Floor Debate",
