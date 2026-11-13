@@ -60,6 +60,268 @@ export const articles: Article[] = [
     "trending": true
   },
     {
+      "id": "art-van-hollen-challenges-schumer-senate-leadership-2026",
+      "slug": "van-hollen-launches-historic-challenge-against-schumer-for-senate-democratic-leader",
+      "title": "Senator Chris Van Hollen Launches Historic Bid to Oust Chuck Schumer as Senate Democratic Leader",
+      "excerpt": "In a stunning post-midterm escalation, Maryland Senator Chris Van Hollen declared his candidacy for Senate Majority Leader, arguing that the party’s congressional victories demand aggressive institutional reform and a break from legacy leadership.",
+      "categoryId": "cat-1",
+      "authorId": "auth-1",
+      "image": "/uploads/news/chris-van-hollen-senate-leadership-2026.jpg",
+      "publishedAt": "2026-11-13T09:30:00.000Z",
+      "readingTime": 6,
+      "tags": [
+        "U.S. Politics",
+        "Senate",
+        "Chris Van Hollen",
+        "Chuck Schumer",
+        "Democratic Party",
+        "Senate Leadership",
+        "Capitol Hill"
+      ],
+      "featured": false,
+      "trending": true,
+      "content": [
+        "WASHINGTON — In the most consequential internal rebellion witnessed within the upper chamber in two decades, Senator Chris Van Hollen of Maryland formally launched a direct leadership challenge on Friday against long-serving Senate Democratic Leader Chuck Schumer, igniting a fierce ideological and generational battle over the direction of the party’s incoming congressional majority.",
+        "Speaking from Capitol Hill following a tense closed-door caucus briefing, Van Hollen asserted that the Democratic Party's sweeping gains in the recent midterm elections—which secured working majorities in both the Senate and the House of Representatives—represented an unequivocal mandate from voters for structural economic reform, aggressive oversight of corporate monopolies, and an overhaul of traditional legislative dealmaking.",
+        "'The American people delivered a decisive, anti-establishment message at the ballot box last week,' Van Hollen declared to reporters. 'They did not elect a Democratic majority merely to manage the status quo or conduct business as usual through incremental compromises. Our caucus needs forward-looking leadership capable of matching the urgency of working families, reforming antiquated parliamentary procedures, and holding the executive branch rigorously accountable.'",
+        "The surprise leadership challenge coincides with mounting grassroots unrest directed at senior party leadership. On Thursday afternoon, dozens of youth climate activists affiliated with the Sunrise Movement occupied Schumer’s Russell Senate Office Building suite, demanding an immediate commitment to abolish the 60-vote legislative filibuster and replace aging establishment figures. U.S. Capitol Police officers arrested 54 demonstrators after a four-hour sit-in, highlighting deepening friction between progressive activist wings and institutional party elders.",
+        "Schumer, who has led Senate Democrats since 2017 through successive impeachment trials and razor-thin majorities, swiftly moved to consolidate his support among veteran committee chairs and moderate colleagues. In a concise written statement, Schumer expressed pride in the caucus’s election victories and reiterated his focus on preparing a comprehensive legislative docket for the opening days of the 120th Congress.",
+        "Parliamentary historians noted that formal contested elections for floor leader are exceedingly rare in modern Senate history, usually resolved in private party conclaves before reaching formal secret ballots. With high-stakes votes scheduled behind closed doors when lawmakers return following the Thanksgiving recess, Van Hollen's declared bid transforms Washington's power architecture and guarantees an intense period of internal whip counts across Capitol Hill."
+      ]
+    },
+    {
+      "id": "art-global-microsoft-outage-cripples-us-infrastructure-2026",
+      "slug": "massive-microsoft-cloud-outage-cripples-us-corporate-and-government-systems",
+      "title": "Massive Microsoft 365 Cloud Outage Cripples Corporate Networks, Airlines, and Government Agencies Nationwide",
+      "excerpt": "A cascading global disruption to Microsoft cloud infrastructure paralyzed enterprise communications, banking operations, and municipal databases across the United States, forcing emergency workarounds despite assurances of no cyberattack.",
+      "categoryId": "cat-9",
+      "authorId": "auth-1",
+      "image": "/uploads/news/microsoft-campus-global-outage-2026.jpg",
+      "publishedAt": "2026-11-13T09:00:00.000Z",
+      "readingTime": 6,
+      "tags": [
+        "U.S. News",
+        "Microsoft",
+        "Cloud Outage",
+        "Technology",
+        "Infrastructure",
+        "Cybersecurity",
+        "Corporate America"
+      ],
+      "featured": false,
+      "trending": true,
+      "content": [
+        "WASHINGTON / SEATTLE — A sprawling, multi-day technical collapse across Microsoft 365 cloud infrastructure brought widespread disruption to corporate offices, financial institutions, transit authorities, and municipal agencies across the United States on Friday, underscoring the extreme systemic vulnerability of modern enterprise computing architecture.",
+        "The service interruption, which originated during a routine administrative routing configuration update on Thursday afternoon, severely degraded core business productivity suites including Exchange Online email, Microsoft Teams video channels, SharePoint document repositories, and cloud authentication portals. In major metropolitan centers from New York to Los Angeles, enterprise employees found themselves locked out of operational databases, while regional health systems reverted to paper documentation and local emergency dispatch centers operated on backup analog channels.",
+        "Microsoft engineers issued continuous technical telemetry advisories throughout Friday morning, attributing the cascading failure to an internal gateway routing anomaly within its Azure directory infrastructure. The software conglomerate emphatically stated that forensic diagnostic logs showed no evidence of malicious cyber intrusion or state-sponsored distributed denial-of-service (DDoS) activity, though acknowledging that traffic rerouting across North American server clusters proved more complex than initially projected.",
+        "The disruption reverberated through national governance and transportation corridors. The Federal Aviation Administration (FAA) reported minor administrative communications delays at several regional air traffic centers, though commercial flight safety was not directly compromised. Meanwhile, on Capitol Hill, congressional oversight aides confirmed that multiple House committees are drafting formal inquiry requests demanding detailed architectural audits and resilience guarantees from major hyperscale cloud providers.",
+        "Concurrently, national security officials navigated domestic enforcement milestones as U.S. Immigration and Customs Enforcement (ICE) released its annual enforcement report documenting an unprecedented 474,850 administrative arrests over the prior twelve-month period—nearly double the volume of the previous fiscal year. With corporate IT departments working around the clock to restore degraded network clusters, enterprise executives warned that the financial toll of lost workplace productivity across the American economy could reach into billions of dollars."
+      ]
+    },
+    {
+      "id": "art-dublin-eu-summit-ukraine-peace-talks-us-envoy-2026",
+      "slug": "eu-leaders-convene-dublin-summit-demanding-seat-ukraine-peace-talks",
+      "title": "European Leaders Convene Emergency Dublin Summit Demanding Central Role in Ukraine Peace Negotiations",
+      "excerpt": "Meeting at Dublin Castle, European Union heads of state pushed back against bilateral U.S.-Russian diplomacy, insisting that European security architectures cannot be negotiated without direct, sovereign European representation.",
+      "categoryId": "cat-4",
+      "authorId": "auth-1",
+      "image": "/uploads/news/dublin-castle-eu-summit-ukraine-2026.jpg",
+      "publishedAt": "2026-11-13T08:30:00.000Z",
+      "readingTime": 6,
+      "tags": [
+        "World News",
+        "European Union",
+        "Dublin Summit",
+        "Ukraine",
+        "Diplomacy",
+        "NATO",
+        "European Security"
+      ],
+      "featured": false,
+      "trending": true,
+      "content": [
+        "DUBLIN — Gathering inside the historic halls of Dublin Castle for an emergency summit on Friday, leaders of the European Union’s 27 member states issued a unified, unyielding diplomatic ultimatum to Washington and Moscow: no permanent peace settlement concerning Ukraine or continental security architecture will be accepted without direct European participation at the negotiating table.",
+        "The high-level European conclave was convened amidst growing alarm across Brussels, Paris, and Berlin over unilateral diplomatic maneuvers conducted by U.S. special envoys Steve Witkoff and Jared Kushner. Following preliminary talks in Abu Dhabi that secured an agreement in principle on a humanitarian prisoner exchange, the American envoys traveled to Moscow for direct discussions with Russian President Vladimir Putin before presenting tentative draft security frameworks to Ukrainian President Volodymyr Zelenskyy during a brief stopover in Ireland.",
+        "European leaders expressed deep apprehension that a great-power bilateral understanding between the White House and the Kremlin could permanently compromise continental sovereignty and freeze conflict lines along terms disadvantageous to long-term Western stability. Addressing reporters following the summit’s opening plenary session, the President of the European Council stressed that the defense of international law on the European continent cannot be subcontracted or decided through backchannel external accords.",
+        "'European borders, European sovereignty, and the future security of our democratic alliance cannot be determined over our heads,' the Council President stated. 'Any sustainable path toward ending this brutal war must guarantee Ukraine’s territorial integrity and grant European nations an authoritative, deciding voice. We are not spectators to our own security; we are primary stakeholders.'",
+        "While EU delegations agreed on the necessity of appointing a dedicated special peace envoy to represent the 27-nation bloc, discussions revealed minor tactical divisions between Nordic-Baltic allies advocating maximalist defense commitments and central European capitals seeking expedited economic normalization. As diplomatic delegations prepare for follow-up multilateral consultations in Geneva next week, European leaders reaffirmed their steadfast military and financial assistance to Kyiv, emphasizing that genuine peace requires transparent collective defense rather than hurried geopolitical deals."
+      ]
+    },
+    {
+      "id": "art-wall-street-ppi-inflation-rate-hike-odds-2026",
+      "slug": "wall-street-braces-for-october-ppi-inflation-as-fed-rate-hike-odds-climb-to-85-percent",
+      "title": "Wall Street Gripped by Volatility as Sticky Inflation Drives Federal Reserve Rate Hike Odds to 85%",
+      "excerpt": "Global markets faced heightened selling pressure ahead of crucial wholesale price index figures, with institutional bond desks rapidly pricing in an aggressive Federal Reserve policy tightening at the December FOMC summit.",
+      "categoryId": "cat-3",
+      "authorId": "auth-1",
+      "image": "/uploads/news/federal-reserve-eccles-ppi-inflation-2026.jpg",
+      "publishedAt": "2026-11-13T08:00:00.000Z",
+      "readingTime": 6,
+      "tags": [
+        "Business",
+        "Wall Street",
+        "Federal Reserve",
+        "Inflation",
+        "PPI",
+        "Treasury Yields",
+        "Stock Market"
+      ],
+      "featured": false,
+      "trending": true,
+      "content": [
+        "NEW YORK — Financial markets across Wall Street entered a defensive holding pattern on Friday as institutional investors braced for the release of the October Producer Price Index (PPI) from the Bureau of Labor Statistics, with bond yields climbing and futures pricing in an 85 percent probability of a quarter-point interest rate increase by the Federal Reserve next month.",
+        "The heightened anxiety across equity and debt desks follows earlier consumer price data indicating that core inflation remains stubbornly entrenched above 3.5 percent, driven by persistent shelter costs, logistics surcharges, and rising service wages. According to consensus forecasts from major Wall Street brokerage houses, headline wholesale producer prices are expected to rise 0.4 percent month-over-month, representing an annual wholesale inflation rate of 6.6 percent that severely complicates the central bank’s planned policy trajectory.",
+        "'The financial markets are confronting the uncomfortable reality that inflationary pressures are proving far more structural than transitory models suggested,' commented the chief investment officer of an institutional asset management firm in New York. 'With macroeconomic indicators demonstrating ongoing labor market resilience alongside rising wholesale input costs, the Federal Reserve simply does not possess the room to ease monetary policy. Instead, traders are forced to price in higher terminal benchmark rates well into 2027.'",
+        "The macroeconomic squeeze triggered broad weakness across interest-rate-sensitive assets. Benchmark 10-year U.S. Treasury yields touched 4.62 percent, pulling capital toward the U.S. dollar, which traded near fresh multi-year peaks against major currency baskets. In commodity markets, gold prices retreated further below $4,000 per ounce, while digital assets including Bitcoin experienced persistent liquidation pressure as speculative liquidity dried up across risk markets.",
+        "Compounding market headwinds, corporate earnings reports from enterprise bellwethers including Cisco and Applied Materials highlighted cautionary corporate spending outlooks for early 2027. Equity strategists noted that while technology valuations had rebounded earlier in the week, sustaining current price-to-earnings multiples requires pristine corporate guidance that may prove increasingly difficult to deliver against a backdrop of elevated borrowing costs and tight federal monetary policy."
+      ]
+    },
+    {
+      "id": "art-jensen-huang-resigns-nvidia-colette-kress-interim-ceo-2026",
+      "slug": "jensen-huang-resigns-as-nvidia-ceo-board-names-colette-kress-interim-leader",
+      "title": "Jensen Huang Abruptly Resigns as Nvidia CEO Following Internal Inquiry; CFO Colette Kress Named Interim Leader",
+      "excerpt": "In a seismic shockwave across the global semiconductor landscape, iconic Nvidia co-founder Jensen Huang stepped down following an independent board probe, thrusting longtime financial chief Colette Kress into the executive helm.",
+      "categoryId": "cat-2",
+      "authorId": "auth-1",
+      "image": "/uploads/news/colette-kress-nvidia-interim-ceo-2026.png",
+      "publishedAt": "2026-11-13T07:30:00.000Z",
+      "readingTime": 6,
+      "tags": [
+        "Technology",
+        "Nvidia",
+        "Jensen Huang",
+        "Colette Kress",
+        "Semiconductors",
+        "Artificial Intelligence",
+        "Silicon Valley"
+      ],
+      "featured": false,
+      "trending": true,
+      "content": [
+        "SANTA CLARA, Calif. — In an earthquake that rattled the foundations of the global technology sector, Jensen Huang—the charismatic co-founder, president, and chief executive officer who transformed Nvidia Corporation from a niche graphics hardware startup into a multi-trillion-dollar artificial intelligence titan—abruptly resigned from all executive and board positions on Friday.",
+        "The shock departure followed an intensive, independent corporate investigation overseen by the board of directors and conducted by special outside counsel Wachtell, Lipton, Rosen & Katz. The inquiry examined personal conduct disclosures and potential national security compliance questions regarding personal relationships with individuals linked to foreign corporate entities. In a formal corporate announcement issued before market open, the board announced that Chief Financial Officer Colette Kress has been appointed interim Chief Executive Officer, effective immediately, while an executive search firm conducts an international search for a permanent successor.",
+        "'For more than three decades, Jensen Huang’s extraordinary vision, relentless engineering ambition, and leadership propelled Nvidia to become the engine powering modern computing,' the lead independent director of Nvidia's board said in an official statement. 'However, the board is firmly committed to the highest standards of corporate governance, ethical compliance, and institutional integrity. We have total confidence in Colette Kress and our deep executive leadership bench to guide our engineering roadmap and serve our global partners without interruption.'",
+        "The leadership upheaval wiped out tens of billions of dollars in market valuation during pre-market trading, sending ripples through global semiconductor supply chains from Taiwan to Silicon Valley. As Wall Street grappled with the exit of AI hardware’s foremost champion, major geopolitical developments simultaneously emerged in Washington: OpenAI privately informed congressional leaders that it supports proposed bipartisan legislation tightening export controls on advanced AI silicon and semiconductor manufacturing tools destined for China, capitalizing on the lobbying vacuum created by Huang’s departure.",
+        "Industry analysts and enterprise cloud clients noted that while Nvidia's CUDA software moat and next-generation Blackwell computing clusters remain unmatched in raw performance, the sudden loss of its iconic founder introduces unprecedented leadership uncertainty at the exact moment competitors like AMD, Broadcom, and proprietary hyperscale silicon programs are racing to capture data center market share."
+      ]
+    },
+    {
+      "id": "art-nasa-1-million-moon-base-challenge-hubble-dark-matter-2026",
+      "slug": "nasa-launches-1-million-moon-base-challenge-and-unveils-hubble-gravitational-lensing-survey",
+      "title": "NASA Launches $1 Million Student Moon Base Challenge and Releases Landmark Hubble Dark Matter Survey",
+      "excerpt": "NASA opened a major national competition inviting student engineering teams to design lunar South Pole life support systems, while releasing an extraordinary nine-panel Hubble deep-space survey mapping cosmic gravitational lenses.",
+      "categoryId": "cat-6",
+      "authorId": "auth-1",
+      "image": "/uploads/news/hubble-gravitational-lensing-abell370-2026.jpg",
+      "publishedAt": "2026-11-13T07:00:00.000Z",
+      "readingTime": 6,
+      "tags": [
+        "Science",
+        "NASA",
+        "Hubble Space Telescope",
+        "Moon Base",
+        "Artemis",
+        "Astronomy",
+        "Dark Matter"
+      ],
+      "featured": false,
+      "trending": true,
+      "content": [
+        "WASHINGTON / GREENBELT, Md. — Advancing both the frontiers of astrophysics and next-generation lunar exploration, NASA announced two landmark scientific initiatives on Friday: the launch of a prestigious $1 million collegiate 'Moon Base Challenge' to engineer Artemis surface life-support infrastructure, alongside the public release of a groundbreaking nine-panel cosmic gallery captured by the Hubble Space Telescope detailing massive gravitational lenses.",
+        "The newly inaugurated $1 Million Moon Base Challenge invites multi-disciplinary student engineering teams from accredited high schools and universities across the United States to submit operational blueprints for permanent human habitats situated near the lunar South Pole. Competition categories focus on solving the most severe technical bottlenecks of off-world survival, including cryogenic power storage during the freezing two-week lunar nights, automated water-ice extraction from shadowed craters, regolith radiation shielding, and closed-loop oxygen reclamation systems.",
+        "'The students participating in this challenge today will be the mission directors, aerospace architects, and habitat engineers building permanent civilization on the Moon tomorrow,' remarked NASA's Associate Administrator for STEM Engagement. 'By engaging our brightest young minds in solving real-world engineering hurdles, we are fueling the innovation engine that will sustain human presence on other worlds.'",
+        "Simultaneously, astrophysicists at NASA's Goddard Space Flight Center celebrated the publication of an extraordinary deep-sky survey by the Hubble Space Telescope, showcasing nine spectacular examples of strong gravitational lensing—a phenomenon where massive galaxy clusters like Abell 370 warp and magnify the light of primordial background galaxies behind them. The comprehensive survey serves as a vital target catalog for the newly deployed Nancy Grace Roman Space Telescope, which will leverage wide-field gravitational lensing to map the spatial distribution of elusive dark matter across cosmic time.",
+        "Agency officials also confirmed that planetary science teams will begin evaluating restructured, cost-effective architectures in January to return pristine rock cores collected by the Perseverance rover on Mars back to Earth. With orbital observatories revealing the dawn of galaxies and Artemis surface technologies maturing rapidly, scientists celebrated the announcements as a powerful demonstration of American leadership across the space sciences."
+      ]
+    },
+    {
+      "id": "art-fda-fast-tracks-long-covid-treatment-mandates-glp1-warnings-2026",
+      "slug": "fda-grants-fast-track-to-long-covid-therapy-and-mandates-class-wide-glp1-vision-warnings",
+      "title": "FDA Grants Fast Track to Breakthrough Long COVID Therapy and Mandates Class-Wide GLP-1 Vision Warnings",
+      "excerpt": "The Food and Drug Administration cleared an expedited clinical path for experimental Long COVID drug FRP-003 while issuing a mandatory safety update across all GLP-1 weight-loss medications regarding rare optic nerve risks.",
+      "categoryId": "cat-8",
+      "authorId": "auth-1",
+      "image": "/uploads/news/fda-white-oak-headquarters-building-2026.jpg",
+      "publishedAt": "2026-11-13T06:30:00.000Z",
+      "readingTime": 6,
+      "tags": [
+        "Health",
+        "FDA",
+        "Long COVID",
+        "GLP-1",
+        "Public Health",
+        "Medical Research",
+        "CDC"
+      ],
+      "featured": false,
+      "trending": true,
+      "content": [
+        "SILVER SPRING, Md. — The Food and Drug Administration (FDA) issued a pair of consequential regulatory determinations on Friday, granting coveted Fast Track designation to an experimental therapeutic targeting chronic Long COVID symptoms while mandating sweeping, class-wide prescription label changes across all popular GLP-1 receptor agonist medications.",
+        "The Fast Track designation was awarded to FRP-003, a novel targeted immunomodulatory compound developed to address persistent neuro-inflammatory signaling and microvascular dysfunction in patients suffering from debilitating post-acute sequelae of COVID-19. By conferring Fast Track status, the FDA enables accelerated development timelines, rolling clinical dossier reviews, and eligibility for priority voucher evaluation ahead of scheduled multi-center Phase 2 clinical trials early next year.",
+        "Concurrently, the agency announced a mandatory safety labeling overhaul governing all widely prescribed GLP-1 receptor agonists utilized for type 2 diabetes management and clinical weight loss. Following a comprehensive meta-analysis evaluating clinical trial registries and post-marketing surveillance databases comprising over 125,000 patient records, regulators concluded that pharmaceutical manufacturers must formally incorporate warnings regarding a rare, potential risk of Non-Arteritic Anterior Ischemic Optic Neuropathy (NAION)—a severe vascular condition that can result in sudden, irreversible loss of vision.",
+        "'Our regulatory mission demands that we vigorously expedite promising therapies for underserved chronic diseases while ensuring that millions of patients receiving high-volume metabolic treatments possess fully verified safety disclosures,' stated an FDA regulatory affairs director during a press briefing at White Oak headquarters. 'Clinical prescribers and patients must be vigilant in reporting sudden visual disturbances immediately.'",
+        "The regulatory announcements come as federal public health authorities remain on high operational alert. The Centers for Disease Control and Prevention (CDC) formally extended its emergency entry screening restrictions for travelers arriving from Central African nations for an additional thirty days due to ongoing regional Ebola transmission, while domestic health departments continue intensive contact tracing after U.S. measles cases reached a 35-year high of 5,182 infections."
+      ]
+    },
+    {
+      "id": "art-cork-international-film-festival-71st-edition-2026",
+      "slug": "cork-international-film-festival-opens-71st-edition-championing-global-cinema",
+      "title": "71st Cork International Film Festival Opens in Ireland With Global Cinema Premieres and Digital Crossovers",
+      "excerpt": "Ireland’s oldest and most prestigious cinema showcase officially commenced its eleven-day run, bringing international directors, emerging screenwriters, and experimental digital showcases to historic cultural venues across Cork.",
+      "categoryId": "cat-5",
+      "authorId": "auth-1",
+      "image": "/uploads/news/cork-ireland-film-festival-2026.jpg",
+      "publishedAt": "2026-11-13T06:00:00.000Z",
+      "readingTime": 6,
+      "tags": [
+        "Culture",
+        "Film Festival",
+        "Cinema",
+        "Cork Film Festival",
+        "Ireland",
+        "Arts",
+        "Global Cinema"
+      ],
+      "featured": false,
+      "trending": true,
+      "content": [
+        "CORK, Ireland — Lights dimmed and projectors whirred to life across the cultural capital of southern Ireland on Friday as the 71st Cork International Film Festival (CIFF) officially opened its doors, launching eleven days of world premieres, boundary-pushing independent features, and avant-garde cinematic masterclasses in partnership with University College Cork (UCC).",
+        "Founded in 1956, the festival stands as Ireland’s oldest, largest, and most revered cinematic celebration, holding prestigious Academy Award-qualifying status for its international short film competitions. This year's curation brings together more than 220 films spanning forty-five sovereign nations, with thematic retrospectives emphasizing human resilience against ecological upheaval, the ethics of synthetic identity in visual arts, and intimate family chronicles from contemporary global storytellers.",
+        "Opening night ceremonies held at the historic Cork Opera House featured the international premiere of an acclaimed European family drama, drawing leading directors, screenwriters, and actors to red carpet arrivals along the banks of the River Lee. In a major programming expansion for 2026, the festival introduced an innovative 'Hybrid Performance' track hosted at the Granary Theatre, seamlessly blending live theater actors with interactive digital projection mapping and generative soundscapes.",
+        "'Cinema remains the world's most powerful collective empathy engine,' remarked the festival’s artistic director during her welcoming address. 'In an era where personal media consumption is increasingly fragmented onto miniature mobile screens, gathering in darkness to share transformative stories on a grand canvas is a vital cultural necessity. Cork has celebrated that communal magic for over seven decades, and our 2026 programme reflects cinema's enduring vitality.'",
+        "The festival's opening coincides with vibrant international cultural programming worldwide, including the launch of the 31st European Union Film Festival in Shillong, India, and the ongoing Art Mumbai fair showcasing 94 premier contemporary galleries. With sold-out screenings and industry networking hubs operating through November 22, the Cork festival once again cements Ireland’s reputation as an indispensable crossroads for global visual arts."
+      ]
+    },
+    {
+      "id": "art-commanders-edge-giants-jayden-daniels-thursday-night-2026",
+      "slug": "jayden-daniels-leads-thrilling-fourth-quarter-drive-as-commanders-edge-giants-24-21",
+      "title": "Jayden Daniels Delivers Clutch Fourth-Quarter Drive as Commanders Edge Giants 24-21 in Thursday Night Thriller",
+      "excerpt": "In a high-intensity NFC East showdown, rookie phenom Jayden Daniels engineered a game-winning touchdown drive in the final two minutes, lifting Washington over New York while Cade Cunningham exploded for 52 points in NBA action.",
+      "categoryId": "cat-7",
+      "authorId": "auth-1",
+      "image": "/uploads/news/jayden-daniels-commanders-touchdown-2026.jpg",
+      "publishedAt": "2026-11-13T05:30:00.000Z",
+      "readingTime": 6,
+      "tags": [
+        "Sports",
+        "NFL",
+        "Washington Commanders",
+        "New York Giants",
+        "Jayden Daniels",
+        "Thursday Night Football",
+        "NBA"
+      ],
+      "featured": false,
+      "trending": true,
+      "content": [
+        "LANDOVER, Md. — Showcasing the ice-cold composure that has quickly vaulted him into national superstardom, Washington Commanders quarterback Jayden Daniels orchestrated a breathtaking 78-yard game-winning drive in the dying minutes of Thursday Night Football, lifting Washington to a thrilling 24-21 divisional victory over the New York Giants before an ecstatic home crowd.",
+        "Trailing 21-17 with only 2:18 remaining on the fourth-quarter game clock and facing a hostile blitz package, Daniels evaded edge pressure, stepped up into the pocket, and completed four consecutive precision strikes. The defining moment arrived with just forty-one seconds left, when Daniels lofted a perfect 26-yard touchdown pass into the corner of the end zone, finding veteran receiver Stefon Diggs who secured the ball through heavy double-coverage.",
+        "The victory pushed Washington to a commanding 8-2 record atop the NFC East, solidifying their standing as legitimate Super Bowl contenders in the conference. Giants quarterback J.J. McCarthy had previously rallied New York with a stunning 66-yard scoring strike in the third quarter, but a desperation interception sealed by Washington's secondary in the final seconds extinguished New York’s comeback hopes.",
+        "'Jayden possesses that rare, unshakeable poise that cannot be coached,' Commanders head coach Dan Quinn stated in his post-game press conference. 'When the game is on the line and twenty-two players are flying around at full speed, everything slows down for him. Our team trusts him completely in high-leverage moments, and he delivered when everything mattered most.'",
+        "On the hardwood, the sports world witnessed an equally astonishing spectacle as Detroit Pistons guard Cade Cunningham erupted for a career-high 52 points, carrying Detroit to a historic 144-140 double-overtime victory over the Washington Wizards despite a 37-point, 14-assist effort from Trae Young. With the NFL entering Week 10’s Munich international matchup between the Patriots and Lions, and NBA Cup group play heating up nationwide, mid-November is delivering an unforgettable stretch of competitive drama."
+      ]
+    },
+    {
       "id": "art-white-house-oversight-clash-pardon-act-2026",
       "slug": "white-house-clashes-with-incoming-democratic-congress-over-oversight-probes",
       "title": "White House Clashes With Incoming Democratic Congress Over Oversight Probes as Lawmakers Introduce Pardon Reform Act",
