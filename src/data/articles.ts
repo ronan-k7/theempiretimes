@@ -60,6 +60,267 @@ export const articles: Article[] = [
     "trending": true
   },
     {
+      "id": "art-supreme-court-takes-up-trump-asylum-ban-appeal-2026",
+      "slug": "supreme-court-agrees-to-hear-trump-appeal-on-southern-border-asylum-ban",
+      "title": "Supreme Court Agrees to Review Trump Southern Border Asylum Ban in Major Constitutional Test",
+      "excerpt": "The high court granted certiorari to decide whether the executive branch possesses statutory authority to suspend asylum adjudications during border emergencies, setting up a definitive ruling on presidential immigration powers.",
+      "categoryId": "cat-1",
+      "authorId": "auth-1",
+      "image": "/uploads/news/supreme-court-asylum-ban-appeal-2026.jpg",
+      "publishedAt": "2026-11-14T08:30:00.000Z",
+      "readingTime": 6,
+      "tags": [
+        "U.S. Politics",
+        "Supreme Court",
+        "Immigration",
+        "Asylum Ban",
+        "Border Security",
+        "Constitutional Law",
+        "Department of Justice"
+      ],
+      "featured": false,
+      "trending": true,
+      "content": [
+        "WASHINGTON — In a high-stakes development that promises to redefine the constitutional boundaries of presidential authority over immigration enforcement, the Supreme Court of the United States announced on Saturday that it will formally review the Trump administration’s appeal seeking to reinstate a sweeping executive ban on southern border asylum applications.",
+        "The justices granted certiorari in the consolidated legal challenge following conflicting appellate rulings that struck down the administration’s categorical emergency border restrictions. Federal solicitors argued in emergency docket filings that Article II executive authorities, reinforced by Section 212(f) of the Immigration and Nationality Act (INA), grant the commander-in-chief virtually unreviewable discretion to suspend the entry of any class of noncitizens deemed detrimental to national security and domestic order during severe migration surges.",
+        "Civil liberties advocates, led by the American Civil Liberties Union (ACLU) and immigrant defense networks, countered that the executive order directly violates Section 208 of the INA, which statutorily guarantees that any person physically arriving on American soil—regardless of port of entry status—has a legally protected right to petition for international humanitarian protection. Legal advocates maintain that administrative proclamations cannot unilaterally nullify explicit statutory mandates enacted by Congress.",
+        "'The statute passed by Congress could not be clearer: anyone who arrives at the border has the right to apply for asylum,' stated lead counsel representing the civil liberties coalition outside the Supreme Court building. 'The executive branch is asking the highest court in the nation to rubber-stamp an unprecedented bypass of congressional statutes and international treaty obligations. This case represents a foundational test of whether statutes or executive fiats govern the rule of law.'",
+        "The grant of review arrives amidst intense political posturing in Washington following midterm election shifts that awarded Democrats control of both congressional chambers starting in January. While the conservative majority on the bench has historically exhibited deference toward executive border management authorities, several recent procedural questions regarding nationwide injunctions and statutory preemption could divide the court. Oral arguments have been fast-tracked for early spring 2027, with a final ruling anticipated by late June."
+      ]
+    },
+    {
+      "id": "art-nationwide-faa-ground-stop-air-traffic-telecom-failure-2026",
+      "slug": "nationwide-faa-ground-stop-triggers-massive-travel-paralysis-across-us-airports",
+      "title": "Nationwide FAA Ground Stop Halts Domestic Flights as Overloaded Telecom Systems Trigger Severe Travel Chaos",
+      "excerpt": "Federal aviation regulators ordered a rare nationwide pause on commercial departures after an overloaded air traffic control communications system failed, causing cascading cancellations across major transit hubs.",
+      "categoryId": "cat-9",
+      "authorId": "auth-1",
+      "image": "/uploads/news/faa-air-traffic-control-ground-stop-2026.jpg",
+      "publishedAt": "2026-11-14T08:00:00.000Z",
+      "readingTime": 6,
+      "tags": [
+        "U.S. News",
+        "FAA",
+        "Aviation",
+        "Airlines",
+        "Air Traffic Control",
+        "Travel Delays",
+        "Infrastructure"
+      ],
+      "featured": false,
+      "trending": true,
+      "content": [
+        "WASHINGTON — Millions of air passengers across the United States awoke to widespread travel paralysis on Saturday as commercial airlines struggled to clear immense logistical backlogs following an unprecedented four-hour nationwide ground stop imposed by the Federal Aviation Administration (FAA).",
+        "The sweeping halt, which prohibited all domestic commercial departures from coast to coast, was triggered by a sudden data communication breakdown within the legacy FAA Telecommunications Infrastructure (FTI) network connecting regional Air Route Traffic Control Centers. While airborne flights were safely guided to scheduled destinations utilizing secondary radar and backup radio frequencies, ground departures ground to a complete standstill across critical mega-hubs including Atlanta Hartsfield-Jackson, Chicago O’Hare, Dallas-Fort Worth, and Denver.",
+        "U.S. Transportation Secretary Sean Duffy convened an emergency press briefing at the White House alongside senior aviation safety officials to address the crisis. Duffy emphatically ruled out any cyberattack, sabotage, or hostile electronic intrusion, clarifying that forensic telemetry indicated an catastrophic throughput bottleneck caused by older telecommunications equipment struggling to process sudden routing synchronization bursts between regional control towers.",
+        "'The safety of the traveling American public is our non-negotiable imperative, and whenever data integrity between radar control facilities exhibits anomalies, safety protocols demand an immediate operational pause,' Secretary Duffy declared. 'President Trump was briefed continuously throughout the incident. While systems were stabilized and normal airspace operations were restored late Friday, this failure highlights the long-overdue necessity of completely modernizing our nation's air traffic control infrastructure.'",
+        "Airlines reported over 3,200 canceled flights and more than 8,400 substantial delays nationwide, with flight crews, aircraft rotations, and baggage networks displaced across the country. Major carriers warned that residual scheduling disruptions will persist through the weekend, urging travelers to verify flight statuses online before departing for airports as congressional transportation committees announced plans for emergency oversight hearings next week."
+      ]
+    },
+    {
+      "id": "art-irgc-strike-us-radar-bahrain-trump-shifts-vance-2026",
+      "slug": "irgc-claims-strike-on-us-radar-in-bahrain-as-trump-pulls-vance-from-iran-talks",
+      "title": "Middle East Tensions Surge as IRGC Claims Strike on U.S. Radar in Bahrain; Trump Recalls Vance From Negotiations",
+      "excerpt": "Regional security reached a knife-edge after Iranian forces claimed to target a U.S. early-warning radar site in Bahrain, prompting President Trump to scale back direct strikes while redirecting Vice President JD Vance away from diplomatic talks.",
+      "categoryId": "cat-4",
+      "authorId": "auth-1",
+      "image": "/uploads/news/us-navy-nsa-bahrain-radar-strike-2026.jpg",
+      "publishedAt": "2026-11-14T07:30:00.000Z",
+      "readingTime": 6,
+      "tags": [
+        "World News",
+        "Middle East",
+        "Bahrain",
+        "IRGC",
+        "Donald Trump",
+        "JD Vance",
+        "U.S. Military"
+      ],
+      "featured": false,
+      "trending": true,
+      "content": [
+        "MANAMA, Bahrain / WASHINGTON — Military tensions across the Persian Gulf escalated to dangerous new thresholds on Saturday after Iran’s Islamic Revolutionary Guard Corps (IRGC) publicly claimed responsibility for launching a coordinated drone barrage targeting a U.S. early-warning radar installation situated near Naval Support Activity Bahrain.",
+        "The claimed offensive followed a series of limited preemptive U.S. airstrikes that neutralized an asymmetric communications relay tower near the Strait of Hormuz earlier in the week. While U.S. Central Command (CENTCOM) forcefully disputed Tehran's claims that the installation was destroyed—confirming that ship-based Aegis air defense systems and land-based Patriot batteries intercepted multiple inbound hostile drones without American casualties—the brazen strike marked one of the most direct military confrontations in the theater in months.",
+        "In Washington, President Donald Trump addressed the incident during an impromptu exchange with reporters, signaling a calculated strategic shift. Trump stated that while American military assets remain fully prepared to retaliate with overwhelming force, key Gulf allies—including Saudi Arabia and the United Arab Emirates—have urged diplomatic restraint to safeguard vital maritime energy corridors from catastrophic regional conflagration.",
+        "Simultaneously, the administration confirmed a major recalibration of its diplomatic delegation: President Trump announced that Vice President JD Vance has been formally withdrawn from direct oversight of Iran backchannel negotiations. Trump stated that the administration does not see an urgent necessity for an immediate diplomatic deal with Tehran under current conditions, instructing Vance to refocus his portfolio entirely on domestic governance priorities and federal anti-crime initiatives in major metropolitan areas.",
+        "International diplomacy remains active behind closed doors as G7 foreign ministers and Qatari mediators warn of a rapidly closing two-week window to de-escalate hostilities before commercial insurance rates and maritime transit risks compel shipping conglomerates to bypass the Persian Gulf entirely. Defense analysts emphasized that with carrier strike groups maintaining high alert, any further miscalculation could easily ignite an uncontrollable regional conflagration."
+      ]
+    },
+    {
+      "id": "art-wholesale-ppi-accelerates-6-5-percent-treasury-yields-spike-2026",
+      "slug": "wholesale-ppi-inflation-accelerates-to-four-year-high-spiking-treasury-yields",
+      "title": "Wholesale PPI Inflation Climbs to 6.5% Annual Rate as 10-Year Treasury Yields Spike Past 5.1%",
+      "excerpt": "Despite a modest 0.3% monthly rise, annual wholesale inflation accelerated to its fastest pace since late 2022, cementing expectations of a hawkish Federal Reserve interest rate stance and rattling bond markets.",
+      "categoryId": "cat-3",
+      "authorId": "auth-1",
+      "image": "/uploads/news/wall-street-ppi-inflation-yields-2026.jpg",
+      "publishedAt": "2026-11-14T07:00:00.000Z",
+      "readingTime": 6,
+      "tags": [
+        "Business",
+        "Inflation",
+        "PPI",
+        "Wall Street",
+        "Treasury Yields",
+        "Federal Reserve",
+        "Economy"
+      ],
+      "featured": false,
+      "trending": true,
+      "content": [
+        "NEW YORK — Inflationary pressures across the American industrial supply chain surged to their highest annual levels in four years, according to benchmark data published by the Bureau of Labor Statistics on Friday, sending shockwaves through fixed-income markets and pushing the benchmark 10-year U.S. Treasury yield above 5.1 percent.",
+        "While headline wholesale prices increased by a seemingly modest 0.3 percent on a seasonally adjusted monthly basis in October—slightly below market expectations—the annual rate of wholesale inflation accelerated to an alarming 6.5 percent, climbing from 6.3 percent in September to mark the steepest year-over-year wholesale price surge recorded since November 2022. Core PPI, which strips out volatile food and energy expenditures, remained intensely stubborn at 5.0 percent annualized.",
+        "Economists analyzing the underlying index components noted that persistent geopolitical instability across Middle Eastern maritime lanes has steadily elevated diesel, marine freight tariffs, and warehousing costs, which are now cascading downstream into industrial intermediate goods. The structural nature of these upstream costs indicates that consumer inflation is unlikely to cool toward the central bank's target without prolonged monetary tightening.",
+        "'The wholesale numbers confirm what institutional trading desks have feared for weeks: supply-side inflation is not retreating,' remarked the chief macroeconomic strategist at a major Wall Street investment bank. 'When input costs rise at 6.5 percent annually, corporate margins either contract sharply or manufacturers pass those costs directly to consumer retail shelves. For Federal Reserve policymakers heading into their December meeting, the case for keeping interest rates elevated—or even delivering an additional rate hike—is overwhelmingly compelling.'",
+        "Equity indices endured wild intraday swings as tech shares digested the fallout from Nvidia CEO Jensen Huang's shock departure, though capital rapidly rotated into semiconductor competitors like AMD and Broadcom, which posted double-digit weekly gains. With borrowing costs pinned near generational highs and currency markets maintaining multi-year dollar strength, institutional investors are girding for tighter financial conditions through the opening quarters of 2027."
+      ]
+    },
+    {
+      "id": "art-dublin-ai-summit-anthropic-54b-texas-datacenter-2026",
+      "slug": "eu-leaders-convene-historic-ai-summit-as-anthropic-inks-54b-texas-datacenter-deal",
+      "title": "European Union Leaders Convene Historic AI Summit as Anthropic Inks Record $54 Billion Texas Data Center Lease",
+      "excerpt": "European heads of state met in Dublin with AI pioneer Geoffrey Hinton to confront autonomous agent risks, while Anthropic anchored a historic 910-megawatt powered-land deal in Texas ahead of its anticipated public listing.",
+      "categoryId": "cat-2",
+      "authorId": "auth-1",
+      "image": "/uploads/news/geoffrey-hinton-dublin-ai-summit-2026.jpg",
+      "publishedAt": "2026-11-14T06:30:00.000Z",
+      "readingTime": 6,
+      "tags": [
+        "Technology",
+        "Artificial Intelligence",
+        "Geoffrey Hinton",
+        "Anthropic",
+        "Data Centers",
+        "European Union",
+        "Silicon Valley"
+      ],
+      "featured": false,
+      "trending": true,
+      "content": [
+        "DUBLIN / SAN FRANCISCO — The global artificial intelligence landscape witnessed twin milestone developments across regulation and hyperscale infrastructure on Saturday, as European leaders gathered in Dublin for their first dedicated AI summit while frontier lab Anthropic finalized the largest power lease in computing history.",
+        "In Dublin, European Council President António Costa convened heads of government from all 27 EU member states for extraordinary closed-door deliberations examining the societal risks and economic competitiveness of advanced autonomous agents. The leaders received direct technical briefings from 2024 Nobel laureate in Physics Geoffrey Hinton and Mistral AI Chief Executive Arthur Mensch, who warned that current model reasoning architectures are progressing toward unmonitored autonomy faster than statutory regulatory frameworks can adapt.",
+        "Simultaneously across the Atlantic, frontier AI laboratory Anthropic executed a monumental 15-year, 910-megawatt powered-land lease agreement covering the entire Corsicana, Texas campus owned by Riot Platforms. Valued at $28 billion over its initial phase and scaling up to $54 billion with planned extensions, the transaction represents the largest commercial energy and real estate commitment ever dedicated to artificial intelligence training and inference infrastructure, positioning Anthropic to scale next-generation Claude models ahead of its anticipated Nasdaq initial public offering.",
+        "'The physical scale of artificial intelligence compute has definitively surpassed conventional enterprise software paradigms,' observed a principal infrastructure analyst tracking Silicon Valley financing. 'We are seeing sovereign governments in Europe wrestling with existential regulatory guardrails at the exact moment American frontier labs are contracting multi-gigawatt power grids to run continuous model reasoning. The divide between regulatory contemplation and infrastructure deployment has never been starker.'",
+        "The massive corporate deal comes as a newly released Goldman Sachs report revealed that global debt exposure directly linked to AI infrastructure development has reached an astounding $687 billion across major tech hyperscalers. With public markets closely evaluating capital expenditure returns and energy regulators monitoring grid stability, the AI race is increasingly defined by industrial electricity access and raw computational power."
+      ]
+    },
+    {
+      "id": "art-nasa-voyager-1-one-light-day-chandra-massive-star-2026",
+      "slug": "nasa-launches-countdown-to-voyager-1-one-light-day-milestone-as-chandra-unveils-twin-star",
+      "title": "NASA Launches Global Countdown to Voyager 1’s Historic ‘One Light-Day’ Milestone From Earth",
+      "excerpt": "NASA announced worldwide celebrations as interstellar probe Voyager 1 nears 16.1 billion miles from Earth, while the Chandra X-ray Observatory uncovers a secret companion star driving violent deep-space eruptions.",
+      "categoryId": "cat-6",
+      "authorId": "auth-1",
+      "image": "/uploads/news/voyager-1-spacecraft-light-day-2026.jpg",
+      "publishedAt": "2026-11-14T06:00:00.000Z",
+      "readingTime": 6,
+      "tags": [
+        "Science",
+        "NASA",
+        "Voyager 1",
+        "Chandra Observatory",
+        "Astronomy",
+        "Deep Space",
+        "Interstellar"
+      ],
+      "featured": false,
+      "trending": true,
+      "content": [
+        "PASADENA, Calif. — Human engineering is on the verge of crossing an unprecedented threshold in cosmic exploration, as NASA’s Jet Propulsion Laboratory (JPL) launched a worldwide public countdown on Saturday marking Voyager 1’s impending achievement of reaching exactly 'one light-day' distance from Earth.",
+        "Launched in September 1977, the legendary robotic probe—humanity's farthest and longest-operating emissary—will officially achieve a distance of 16.09 billion miles (25.9 billion kilometers) from Earth on November 18. At that extraordinary range, a radio command dispatched at the speed of light requires a full 24 hours to reach the spacecraft's high-gain antenna, and another 24 hours for telemetry confirmation to return to the Deep Space Network antennas in California, Spain, and Australia.",
+        "To commemorate the five-decade operational triumph, NASA announced a global participatory event titled 'Shine Bright for Voyager’s Light-Day' scheduled for November 17, inviting citizens worldwide to synchronize smart devices to flash the Morse code letters 'VGR' toward the constellation Ophiuchus, followed by a live symposium hosted by veteran mission engineers who built the probe during the Apollo era.",
+        "Simultaneously, NASA's Chandra X-ray Observatory announced an astrophysics breakthrough, solving a long-standing cosmological mystery regarding erratic, violent luminosity outbursts from giant star AT 2016blu, located 30 million light-years away in galaxy NGC 4559. By analyzing multi-epoch high-energy X-ray spectra, astronomers discovered that the volatile 33-solar-mass hypergiant is locked in an eccentric binary orbit with an unobserved companion star, whose periodic gravitational passes rip gaseous material from the primary star and trigger blinding thermonuclear flares.",
+        "Astronomers lauded both achievements as testament to the durability of American space science instrumentation. While Chandra unmasks the physics of distant stellar nurseries, Voyager 1 continues transmitting pristine measurements of interstellar plasma density, proving that humanity's curiosity can extend beyond the boundary of the solar system and reach into the deep galaxy itself."
+      ]
+    },
+    {
+      "id": "art-fda-approves-durvalumab-padcev-bladder-cancer-2026",
+      "slug": "fda-approves-landmark-durvalumab-padcev-combination-for-advanced-bladder-cancer",
+      "title": "FDA Approves Landmark Durvalumab and Padcev Immunotherapy Combination for Muscle-Invasive Bladder Cancer",
+      "excerpt": "Federal regulators greenlighted a groundbreaking dual-therapy regimen following landmark Phase 3 VOLGA trial data demonstrating unprecedented event-free and overall survival gains for patients ineligible for conventional chemotherapy.",
+      "categoryId": "cat-8",
+      "authorId": "auth-1",
+      "image": "/uploads/news/fda-cancer-durvalumab-padcev-approval-2026.jpg",
+      "publishedAt": "2026-11-14T05:30:00.000Z",
+      "readingTime": 6,
+      "tags": [
+        "Health",
+        "FDA",
+        "Cancer Treatment",
+        "Immunotherapy",
+        "Oncology",
+        "Clinical Trials",
+        "Medical Breakthrough"
+      ],
+      "featured": false,
+      "trending": true,
+      "content": [
+        "SILVER SPRING, Md. — Delivering a transformative breakthrough for tens of thousands of oncology patients facing aggressive urological malignancies, the Food and Drug Administration (FDA) on Friday formally approved the combination of durvalumab (marketed as Imfinzi) and enfortumab vedotin-ejfv (Padcev) for the treatment of muscle-invasive bladder cancer (MIBC).",
+        "The landmark regulatory clearance authorizes the dual-drug regimen as neoadjuvant therapy prior to radical cystectomy surgery, followed by maintenance single-agent durvalumab as adjuvant immunotherapy for adult patients who are medically ineligible for, or decline, standard cisplatin-based chemotherapy. Cisplatin eligibility has historically been a severe barrier for elderly bladder cancer patients suffering from renal impairment, peripheral neuropathy, or heart failure.",
+        "The FDA's decision was anchored by robust clinical evidence generated from the international Phase 3 VOLGA clinical trial. The randomized multi-center study demonstrated statistically significant and clinically meaningful improvements across both primary endpoints, showing dramatic reductions in cancer recurrence rates and a substantial increase in overall survival compared to standard surgical resection alone. Pathological complete response rates—meaning no residual malignant cells were detected in excised tissue—surpassed previous benchmarks.",
+        "'For decades, muscle-invasive bladder cancer patients unable to tolerate harsh cisplatin chemotherapy faced grim prognostic outcomes and limited therapeutic options before surgery,' said a lead investigator from Memorial Sloan Kettering Cancer Center. 'This dual targeted antibody-drug conjugate and checkpoint inhibitor combination fundamentally shifts clinical practice, offering a potent, life-extending therapeutic bridge that eliminates tumors while preserving patient functional capacity.'",
+        "The approval caps an intensely active regulatory week at the FDA, which also granted 510(k) clearance to an AI-assisted diagnostic software platform designed to identify cerebral aneurysms on CT scans, and mandated class-wide safety warnings across GLP-1 weight-loss medications. Clinical oncologists across the country commended the bladder cancer approval, forecasting immediate adoption across comprehensive cancer centers nationwide."
+      ]
+    },
+    {
+      "id": "art-iffi-goa-film-festival-lineup-stories-without-borders-2026",
+      "slug": "57th-international-film-festival-of-india-unveils-stories-without-borders-lineup",
+      "title": "57th International Film Festival of India Unveils Expansive Lineup Celebrating Cinema Across Borders",
+      "excerpt": "Officials in Goa announced an ambitious program featuring 159 international titles from 87 countries, opening with Paweł Pawlikowski's Fatherland and introducing new dedicated tracks for global animation and cinematic preservation.",
+      "categoryId": "cat-5",
+      "authorId": "auth-1",
+      "image": "/uploads/news/iffi-goa-film-festival-stories-borders-2026.jpg",
+      "publishedAt": "2026-11-14T05:00:00.000Z",
+      "readingTime": 6,
+      "tags": [
+        "Culture",
+        "Film Festival",
+        "IFFI Goa",
+        "Cinema",
+        "Global Film",
+        "Arts",
+        "Entertainment"
+      ],
+      "featured": false,
+      "trending": true,
+      "content": [
+        "PANAJI, Goa — The coastal cultural capital of Goa prepared to welcome the global film community on Saturday as organizers of the 57th International Film Festival of India (IFFI) hosted their official curtain-raiser press conference, unveiling an expansive, border-defying roster of international and regional cinematic works under the official theme 'Stories Without Borders.'",
+        "Scheduled to run from November 20 through November 28, the festival stands as one of Asia's oldest and most prestigious cultural gatherings, holding competitive A-list status from the International Federation of Film Producers Associations (FIAPF). Festival organizers and state cultural ministers confirmed that this year's edition will screen 159 celebrated international features representing 87 sovereign nations, alongside 76 critically acclaimed Indian feature and non-feature films curated under the Indian Panorama banner.",
+        "The festival will officially open with the Asian premiere of Academy Award-winning Polish director Paweł Pawlikowski’s highly anticipated historical drama Fatherland, while Australian filmmaker Phillip Noyce will be honored with the prestigious Satyajit Ray Lifetime Achievement Award for Excellence in Cinema during opening gala ceremonies. In a significant structural expansion for 2026, IFFI unveiled two brand-new programming categories: a dedicated competitive international showcase for feature-length Animation, and a curated retrospective titled 'Films About Films' celebrating cinematic preservation.",
+        "'Cinema is the ultimate universal language that dismantles physical borders, political estrangement, and cultural prejudice,' declared the festival director during the Panaji launch. 'Our 57th edition creates an inclusive, vibrant forum where master filmmakers and audacious debut directors from every continent converse through the common medium of storytelling.'",
+        "The announcement comes amidst a bustling global arts weekend, as Ireland’s 71st Cork International Film Festival and the Asian World Film Festival in California continue drawing international acclaim. With masterclasses led by world-renowned cinematographers and South Asia’s largest Film Bazaar market expected to host over 3,000 international delegates, Goa is poised to deliver an unforgettable celebration of global visual arts."
+      ]
+    },
+    {
+      "id": "art-wembanyama-spurs-11-game-streak-nba-cup-lamar-injury-2026",
+      "slug": "spurs-extend-win-streak-to-11-behind-wembanyama-and-castle-as-lamar-jackson-injury-shakes-nfl",
+      "title": "San Antonio Spurs Extend Win Streak to 11 in NBA Cup Rout; Ravens Suffer Lamar Jackson Injury Blow",
+      "excerpt": "Stephon Castle and Victor Wembanyama propelled the red-hot Spurs to their 11th consecutive victory in a 123-85 dismantling of Golden State, while the NFL landscape was upended by news of Lamar Jackson’s multi-week absence.",
+      "categoryId": "cat-7",
+      "authorId": "auth-1",
+      "image": "/uploads/news/wembanyama-spurs-nba-cup-win-streak-2026.jpg",
+      "publishedAt": "2026-11-14T04:30:00.000Z",
+      "readingTime": 6,
+      "tags": [
+        "Sports",
+        "NBA",
+        "Victor Wembanyama",
+        "San Antonio Spurs",
+        "NBA Cup",
+        "NFL",
+        "Lamar Jackson"
+      ],
+      "featured": false,
+      "trending": true,
+      "content": [
+        "SAN ANTONIO — The San Antonio Spurs delivered a resounding masterclass of two-way basketball dominance on Friday night, dismantling the Golden State Warriors 123-85 in Emirates NBA Cup group play to extend their blistering winning streak to eleven consecutive games and solidify their position atop the Western Conference standings.",
+        "Dynamic guard Stephon Castle spearheaded the offensive onslaught with a season-high 32 points on dazzling 12-of-17 shooting, while generational center Victor Wembanyama exerted complete defensive dominance inside the paint. Wembanyama needed only twenty minutes of floor time to notch a 12-point, 12-rebound double-double, anchoring a suffocating Spurs defensive rotation that held Golden State—playing without injured superstar Stephen Curry—to a miserable 34 percent shooting performance from the field.",
+        "The blowout victory advanced the Spurs to a pristine 11-1 regular season record, their best start to a campaign since the championship eras of the late 2000s. Elsewhere across Friday night's cup slate, Houston Rockets center Alperen Şengün authored a historic 43-point masterpiece to outlast the Utah Jazz, while the Los Angeles Clippers executed a thrilling 113-112 comeback upset over the defending champion Oklahoma City Thunder despite a 40-point clinic from Shai Gilgeous-Alexander.",
+        "Meanwhile, seismic developments rocked the professional football landscape as the Baltimore Ravens confirmed that two-time MVP quarterback Lamar Jackson suffered a severe lower-extremity injury that will sideline him for six to ten weeks. The devastating medical update severely jeopardizes Baltimore's AFC North title defense and throws the conference playoff picture into chaos, forcing backup quarterbacks into high-leverage roles as the NFL enters the second half of the regular season schedule.",
+        "With college football bowl races tightening, the Las Vegas Raiders preparing rookie Fernando Mendoza for his first career start against Seattle, and the Patriots and Lions staging their historic international clash in Munich on Sunday, mid-November is delivering an exhilarating, high-stakes chapter across the American sports calendar."
+      ]
+    },
+    {
       "id": "art-van-hollen-challenges-schumer-senate-leadership-2026",
       "slug": "van-hollen-launches-historic-challenge-against-schumer-for-senate-democratic-leader",
       "title": "Senator Chris Van Hollen Launches Historic Bid to Oust Chuck Schumer as Senate Democratic Leader",
